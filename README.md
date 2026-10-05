@@ -322,6 +322,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Unified AI gateway and proxy supporting over 230 providers with token compression, automatic failover, and routing strategies. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social)
 - [Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - Rust proxy and library for routing, protocol translation, and operational metrics across LLM backends and coding agents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/Switchyard?style=social)
 - [Bifrost](https://github.com/maximhq/bifrost) - LLM gateway with a unified OpenAI-compatible API across providers, routing, load balancing, fallbacks, guardrails, and observability. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
+- [fitcheck](https://github.com/SIDDARTHAREDDY8/fitcheck) - Zero-dependency Python CLI that plans LLM VRAM before you serve: real per-token KV-cache math, FITS/TIGHT/OOM verdicts, max safe context, and paste-ready vLLM/llama.cpp flags. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/SIDDARTHAREDDY8/fitcheck?style=social)
 
 #### Additional Inference Engines
 
@@ -547,6 +548,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [LM Format Enforcer](https://github.com/noamgat/lm-format-enforcer) - Enforce output format (JSON Schema, Regex, etc) of language models by filtering allowed tokens at each generation step. Compatible with Hugging Face, llama-cpp-python, and vLLM. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/noamgat/lm-format-enforcer?style=social)
 
 - [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - Library to build and auto-optimize LLM applications with LLM-AutoDiff for fine-tuning-free optimization. End-to-end workflow optimization with tracing and human-in-the-loop capabilities. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/SylphAI-Inc/AdalFlow?style=social)
+- [guidelint](https://github.com/SIDDARTHAREDDY8/guidelint) - Zero-dependency Python CLI that lints structured-output configs for vLLM, llama.cpp, and Ollama against 23 version-aware rules, catching silently-ignored fields before production. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/SIDDARTHAREDDY8/guidelint?style=social)
 
 
 #### Domain-Specific Agents
